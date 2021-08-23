@@ -1,4 +1,4 @@
-# Simple Flask-based REST API for store application
+# my-store: A flask based REST API for a store application
 
 ## Usage
 1. ``` python utilities/create-tables.py ```
